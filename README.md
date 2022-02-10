@@ -5,3 +5,8 @@ Instruction & Reference: https://www.kaggle.com/johnharshith/hollywood-theatrica
 Just upload the notebook to Kaggle
 - https://www.kaggle.com/dcrowd/data-cleaning-and-analysis
 - Please feel free to comment for any direction or improvement
+
+### Progress
+1) Movie_EDA.ipynb
+- Finished the first version of EDA (31/01/2022)
+- Up-coming target: Looking for another data set or check with other's code for improvement
